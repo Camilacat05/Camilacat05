@@ -1,5 +1,5 @@
 ### Olá, sou a Camila Cat 05 👋
-- 🔭 Hoje trabalho como Analista de Suporte Técnico em Tecnologia da Informação
+
 - 🌱 Atualmente estudo Análise de Dados e Visão Computacional em Python
 - 😄 Pronouns: ela\dela
 <div>
@@ -31,6 +31,8 @@
 **Camilacat05/Camilacat05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ - 🔭 Atualmente trabalho como Analista de Suporte Técnico em Tecnologia da Informação
+
 
 
 -->
