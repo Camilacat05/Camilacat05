@@ -1,6 +1,6 @@
 ### Olá, sou a Camila Cat 05 👋
 
-- 🌱 Atualmente estudo Análise de Dados e Visão Computacional em Python
+- 🌱 Atualmente estudo e aplico no meu dia a dia Análise de Dados, Visão Computacional em Python e Business Intelligence.
 - 😄 Pronouns: ela\dela
 <div>
   <a href="https://github.com/Camilacat05">
