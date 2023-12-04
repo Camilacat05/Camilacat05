@@ -1,6 +1,7 @@
 ### Olá, sou a Camila Cat 05 👋
 
 - 🌱 Atualmente estudo e aplico no meu dia a dia Análise de Dados, Visão Computacional em Python e Business Intelligence.
+- 🔭 Atualmente trabalho como Desenvolvedora de Software .NET e Technical Writer Interna.
 - 😄 Pronouns: ela\dela
 <div>
   <a href="https://github.com/Camilacat05">
@@ -12,8 +13,11 @@
   <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camila-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Camila-Anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg">
   <img align="center" alt="Camila-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Camila-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Camila-gcp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain-wordmark.svg">
+
   
     
 </div>
@@ -33,7 +37,7 @@
 **Camilacat05/Camilacat05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
- - 🔭 Atualmente trabalho como Desenvolvedora de Software .NET e Technical Writer Interna.
+
 
 
 
