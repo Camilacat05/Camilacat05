@@ -1,4 +1,4 @@
-### Olá, sou a Camila Cat 05 👋
+### Olá, sou a CamilaCat05 👋
 
 - 🌱 Atualmente estudo e aplico no meu dia a dia Análise de Dados, Visão Computacional em Python e Business Intelligence.
 - 🔭 Atualmente trabalho como Desenvolvedora de Software .NET e Technical Writer Interna.
