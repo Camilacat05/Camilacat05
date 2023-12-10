@@ -1,6 +1,6 @@
 ### Olá, sou a CamilaCat05 👋
 
-- 🌱 Atualmente estudo e aplico no meu dia a dia Análise de Dados, Visão Computacional em Python e Business Intelligence.
+- 🌱 Atualmente estudo e aplico no meu dia a dia Análise de Dados, Desenvolvimento de Software, Visão Computacional em Python e Business Intelligence.
 - 🔭 Atualmente trabalho como Desenvolvedora de Software .NET e Technical Writer Interna.
 - 😄 Pronouns: ela\dela
 
